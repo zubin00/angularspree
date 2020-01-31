@@ -5,7 +5,7 @@ import {
   Input,
   ChangeDetectionStrategy
 } from '@angular/core';
-import { NguCarouselConfig } from '@ngu/carousel';
+import { NguCarouselConfig } from '@stockopedia/carousel';
 
 @Component({
   selector: 'app-image-container',
